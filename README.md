@@ -6,7 +6,7 @@
   <a href="#features">Features</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#getting-started">Getting started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#project">Project</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
@@ -19,13 +19,13 @@
 
 ## Features
 
-- [] Create game groups
-- [] Show existing groups
-- [] Remove groups
-- [] Add participants
-- [] Show participants
-- [] Remove participants
-- [] Set teams
+- [ ] Create game groups
+- [ ] Show existing groups
+- [ ] Remove groups
+- [ ] Add participants
+- [ ] Show participants
+- [ ] Remove participants
+- [ ] Set teams
 
 ## Technologies
 
