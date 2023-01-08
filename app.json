@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "F Team",
+    "slug": "fteam",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./src/assets/main/icon.png",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "splash": {
+      "image": "./src/assets/main/splash.png",
+      "backgroundColor": "#202024",
+      "resizeMode": "contain"
+    },
+    "androidStatusBar": {
+      "barStyle": "light-content"
+    },
+    "android": {
+      "package": "com.fteam"
+    },
+    "ios": {
+      "bundleIdentifier": "com.fteam"
+    },
+    "description": "App to mark your games with friends from school, college or work",
+    "githubUrl": "https://github.com/HelvioFilho/fteam"
+  }
+}
