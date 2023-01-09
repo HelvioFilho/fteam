@@ -19,13 +19,13 @@
 
 ## Features
 
-- [ ] Create game groups
-- [ ] Show existing groups
-- [ ] Remove groups
-- [ ] Add participants
-- [ ] Show participants
-- [ ] Remove participants
-- [ ] Set teams
+- [x] Create game groups
+- [x] Show existing groups
+- [x] Remove groups
+- [x] Add participants
+- [x] Show participants
+- [x] Remove participants
+- [x] Set teams
 
 ## Technologies
 
